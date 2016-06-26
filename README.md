@@ -13,7 +13,6 @@ Using [46elks credentials]() enter this into your terminal:
 ``` curl... ``` 
 You've now sent an sms!
 
-
 ## Getting started
 
 1. You need *credentials* (a username & a password, also known as your api keys) to use the 46elks api. Create your free 46elks account at [46elks.com/create-account](https://www.46elks.com/create-account), to get a username and password. Used for connecting to the api through [basic auth](46elks@medium article about basic auth).
