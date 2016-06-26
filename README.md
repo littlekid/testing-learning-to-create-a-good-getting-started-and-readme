@@ -24,20 +24,29 @@ You've now sent an sms!
 << APIDOCS "Sample code" links to this location
 
   ### Send sms
+
   [Elixir], [Go], [Ruby], [PHP]
+
   
   ### Receive SMS
+
   [Elixir], [Ruby], [PHP]
+
   
   ### Make a phone call
+
   [], [Ruby], [PHP]
+
   
   ### Receive a phone call
+
   [], [Ruby], [PHP]
   
   ### Build an interactive voice response (IVR)
+
   What is an ivr? It's ... A more complete article can be found [medium](46elks@medium/What is ivr?)
   [], [Ruby], [PHP]
+
   
   ### Demo applications
   
