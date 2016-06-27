@@ -22,49 +22,49 @@ You've now sent an sms!
 ## Sample code
 << APIDOCS "Sample code" links to this location
 
-  ### Send sms
+### Send sms
 
-  [Elixir], [Go], [Ruby], [PHP]
-
-  
-  ### Receive SMS
-
-  [Elixir], [Ruby], [PHP]
+[Elixir], [Go], [Ruby], [PHP]
 
   
-  ### Make a phone call
+### Receive SMS
 
-  [], [Ruby], [PHP]
+[Elixir], [Ruby], [PHP]
 
-  
-  ### Receive a phone call
 
-  [], [Ruby], [PHP]
-  
-  ### Build an interactive voice response (IVR)
+### Make a phone call
 
-  What is an ivr? It's ... A more complete article can be found [medium](46elks@medium/What is ivr?)
-  [], [Ruby], [PHP]
+[], [Ruby], [PHP]
 
-  
-  ### Demo applications
-  
-    ### Smart support - Have one supportnumber; redirect it to different people different times of the day, or selected days of the week, accept incoming sms from customers into your e-mail inbox with Zapier, and reply to their e-mail if you have it on record, or reply to them via sms, by replying to the e-mail.
 
-    ### Two factor authentication
-    
-    ### Elkme - Send textmessages from your terminal
-    
-    ### Sms game at fair.
-    
-    ### Open sesame - open gates at your local..  with an sms.
+### Receive a phone call
+
+[], [Ruby], [PHP]
+
+### Build an interactive voice response (IVR)
+
+What is an ivr? It's ... A more complete article can be found [medium](46elks@medium/What is ivr?)
+[], [Ruby], [PHP]
+
+
+### Demo applications
+
+  ### Smart support - Have one supportnumber; redirect it to different people different times of the day, or selected days of the week, accept incoming sms from customers into your e-mail inbox with Zapier, and reply to their e-mail if you have it on record, or reply to them via sms, by replying to the e-mail.
+
+  ### Two factor authentication
   
-  ## Tutorials
+  ### Elkme - Send textmessages from your terminal
   
-  ## Resources
-  Articles on Medium by 46elks.
-  46elks on twitter
-  Article about ... by @{username}
+  ### Sms game at fair.
+  
+  ### Open sesame - open gates at your local..  with an sms.
+
+## Tutorials
+
+## Resources
+Articles on Medium by 46elks.
+46elks on twitter
+Article about ... by @{username}
   
   
 ## Integrations
