@@ -60,6 +60,8 @@ What is an ivr? It's ... A more complete article can be found [medium](46elks@me
 ### Open sesame - open gates at your local..  with an sms.
 
 ## Tutorials
+[Love messenger](https://github.com/gish/love-messenger)
+[Receive SMS into Google spreadsheet](https://medium.com/@46elks/receive-sms-into-google-spreadsheet-435b51393493#.9ku01h462)
 
 ## Resources
 Articles on Medium by 46elks.
@@ -68,8 +70,8 @@ Article about ... by @{username}
   
   
 ## Integrations
-  * Zapier
-  * Filemaker PRO
+  * Zapier [Zapier tutorial](http...)
+  * Filemaker PRO [Link to article about how to integrate 46elks with Filemaker Pro]()
   * Microsoft Excel
   * Google spreadsheet
 
