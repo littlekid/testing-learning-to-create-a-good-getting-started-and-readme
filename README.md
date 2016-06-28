@@ -51,15 +51,15 @@ What is an ivr? It's ... A more complete article can be found [medium](46elks@me
 
 ### Demo applications
 
-### Smart support - Have one supportnumber; redirect it to different people different times of the day, or selected days of the week, accept incoming sms from customers into your e-mail inbox with Zapier, and reply to their e-mail if you have it on record, or reply to them via sms, by replying to the e-mail.
+#### Smart support - Have one supportnumber; redirect it to different people different times of the day, or selected days of the week, accept incoming sms from customers into your e-mail inbox with Zapier, and reply to their e-mail if you have it on record, or reply to them via sms, by replying to the e-mail.
 
-### Two factor authentication
+#### Two factor authentication
 
-### Elkme - Send textmessages from your terminal
+#### Elkme - Send textmessages from your terminal
 
-### Sms game at fair.
+#### Sms game at fair.
 
-### Open sesame - open gates at your local..  with an sms.
+#### Open sesame - open gates at your local..  with an sms.
 
 ## Tutorials
 [Love messenger](https://github.com/gish/love-messenger)
