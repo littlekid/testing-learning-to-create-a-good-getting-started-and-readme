@@ -6,7 +6,7 @@ Welcome to this getting started repository with a lovely readme! This is to help
 ### Useful links
 
   * [Documentation](https://46elks.com/docs)
-  * [Sample code](#sample-code)
+  * [Sample code](https://github.com/littlekid/testing-learning-to-create-a-good-getting-started-and-readme/tree/master/samples)
   * [Articles about API, Basic auth, and integrations with 46elks](46elks@medium) 
   * [Contact us](46elks.com/help#contact)
 
@@ -19,7 +19,7 @@ You've now sent an sms!
 
 1. You need *credentials* (a username & a password, also known as your api keys) to use the 46elks api. Create your free 46elks account at [46elks.com/create-account](https://www.46elks.com/create-account), to get a username and password. Used for connecting to the api through [basic auth](46elks@medium article about basic auth).
 2. *Documentation* is available at [46elks.com/docs](https://46elks.com/docs).
-3. You might want to dig right into *[Sample code](#examples)*.
+3. You might want to dig right into *[Sample code](https://github.com/littlekid/testing-learning-to-create-a-good-getting-started-and-readme/tree/master/samples)*.
 
 ## Sample code
 << APIDOCS "Sample code" links to this location
