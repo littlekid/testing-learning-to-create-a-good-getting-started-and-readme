@@ -2,7 +2,9 @@
 
 ## Introduction
 Welcome to this getting started repository with a lovely readme! This is to help you work through creating a great welcoming and informative readme for your project! {Inser: Why does this repo exist? What can the reader benefit from this repository?}
-  ### Useful links
+
+### Useful links
+
   * [Documentation](https://46elks.com/docs)
   * [Sample code](#sample-code)
   * [Articles about API, Basic auth, and integrations with 46elks](46elks@medium) 
