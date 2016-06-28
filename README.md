@@ -62,14 +62,14 @@ What is an ivr? It's ... A more complete article can be found [medium](46elks@me
 #### Open sesame - open gates at your local..  with an sms.
 
 ## Tutorials
-[Love messenger](https://github.com/gish/love-messenger)
-[Receive SMS into Google spreadsheet](https://medium.com/@46elks/receive-sms-into-google-spreadsheet-435b51393493#.9ku01h462)
+
+* [Love messenger](https://github.com/gish/love-messenger)
+* [Receive SMS into Google spreadsheet](https://medium.com/@46elks/receive-sms-into-google-spreadsheet-435b51393493#.9ku01h462)
 
 ## Resources
 Articles on Medium by 46elks.
 46elks on twitter
 Article about ... by @{username}
-  
   
 ## Integrations
   * Zapier [Zapier tutorial](http...)
@@ -77,12 +77,11 @@ Article about ... by @{username}
   * Microsoft Excel
   * Google spreadsheet
 
-## Hackathons
-  We are keen on helping out, and we'd be happy to help you with.. and credits for participants etc. [Talk to us](mailto:hello@46elks.com). We're also particualry interested in helping events and organizations working with teaching coding to beginners, initiatives that encourage diversety in IT, and among conferences. We enjoy meetups, let us know if you’d like for someone to come and hold a presentation about APIs - getting started with apis, how to send an sms in Elixir/Ruby/Go..  We exist to help you build useful and cool things!
-  Say hi! Twitter: Uppsala: In Stockholm: In Göteborg: In Poland:
-
 ## Contributors
   THANK YOU!
   @{username} - Added sample code for...
   @{username} - Created
   
+## Hackathons
+  We are keen on helping out, and we'd be happy to help you with.. and credits for participants etc. [Talk to us](mailto:hello@46elks.com). We're also particualry interested in helping events and organizations working with teaching coding to beginners, initiatives that encourage diversety in IT, and among conferences. We enjoy meetups, let us know if you’d like for someone to come and hold a presentation about APIs - getting started with apis, how to send an sms in Elixir/Ruby/Go..  We exist to help you build useful and cool things!
+  Say hi! Twitter: Uppsala: In Stockholm: In Göteborg: In Poland:
