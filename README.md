@@ -121,6 +121,8 @@ Article - User research drive nREADME. How this README came to developed.
 
 ## WIP
 As with most things in life, this README is work in progress! It's a living document that changes as we improve.
+Would you let us know if you see how it can be improved?
+Feel free to open up a pullrequest, or send us a message at hello@46elks.com!
 
 ## Call for contributions
 ### Acessability - language
