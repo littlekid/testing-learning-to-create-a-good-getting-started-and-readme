@@ -1,4 +1,4 @@
-# 46elks [sms api](https://46elks.com), [mms api](https://46elks.com), [voice api](https://46elks.com/link-to-details-about-voice) - your go to api for autmating and integrating telephony into your routines!
+# 46elks [sms api](https://46elks.com), [mms api](https://46elks.com), [voice api](https://46elks.com/link-to-details-about-voice) - your go to api for automating and integrating telephony into your routines!
 
 ## Introduction
 Welcome to this getting started repository with a lovely readme! This is to help you work through creating a great welcoming and informative readme for your project! {Inser: Why does this repo exist? What can the reader benefit from this repository?}
