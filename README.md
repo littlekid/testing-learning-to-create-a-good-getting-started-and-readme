@@ -1,8 +1,8 @@
-![46elks-logo](https://www.46elks.com/images/logo/46elks-240-150.png)
-
 # 46elks [sms api](https://46elks.com), [mms api](https://46elks.com), [voice api](https://46elks.com/link-to-details-about-voice) - Automate and integrate telephony into your routines!
 
 ## Introduction
+
+![46elks-logo](https://www.46elks.com/images/logo/46elks-240-150.png)
 
 Welcome!
 
