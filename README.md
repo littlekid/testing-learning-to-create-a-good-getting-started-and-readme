@@ -71,7 +71,7 @@ Code examples & how-to in the [IVR samples collection](https://github.com/little
 * [Two factor authentication]()
 
 * [Elkme]()  
-  Send textmessages from your terminal
+  Send textmessages from your terminal.
 
 * [Sms game]()
 
@@ -94,6 +94,7 @@ Let us know at hello@46elks.com!
   * [Zapier](https://zapier.com/zapbook/46elks/)
   * [Microsoft Excel](https://excel.46elks.com/)
   * Google spreadsheet [Google Script code sample](https://github.com/46elks/SMStoGoogleSheets) | Tutorial: [Receive sms into Google spreadsheet](https://medium.com/@46elks/receive-sms-into-google-spreadsheet-435b51393493#.iu690j86w)
+
 ## Contributors
   THANK YOU!
   @{username} - Added sample code for...
@@ -107,8 +108,6 @@ Let us know at hello@46elks.com!
 As with most things in life, this README is work in progress! It's a living document that changes as we improve.
 Would you let us know if you see how it can be improved?
 Feel free to open up a pullrequest, or send us a message at hello@46elks.com!
-
-## Call for contributions
 
 ### Accessability 
 
