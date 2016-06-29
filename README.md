@@ -65,17 +65,17 @@ Code examples & how-to in the [IVR samples collection](https://github.com/little
 
 ## Demo applications
 
-* [Smart support]()
+* [Smart support]()  
   Have one supportnumber; redirect it to different people different times of the day, or selected days of the week, accept incoming sms from customers into your e-mail inbox with Zapier, and reply to their e-mail if you have it on record, or reply to them via sms, by replying to the e-mail.
 
 * [Two factor authentication]()
 
-* [Elkme]()
+* [Elkme]()  
   Send textmessages from your terminal
 
 * [Sms game]()
 
-* [Open sesame]() 
+* [Open sesame]()  
   Open gates at your local..  with an sms.
 
 ## Tutorials
@@ -88,7 +88,7 @@ Let us know at hello@46elks.com!
 
 
 ## Resources
-[Postman app](https://www.getpostman.com/) - interact with apis through a Chrome app, also available as an OSX app.
+* [Postman app](https://www.getpostman.com/) - interact with apis through a Chrome app, also available as an OSX app.
   
 ## Integrations
   * [Zapier](https://zapier.com/zapbook/46elks/)
