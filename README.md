@@ -66,7 +66,7 @@ Code examples & how-to in the [IVR samples collection](https://github.com/little
 ## Demo applications
 
 * [Smart support]()  
-  Have one supportnumber; redirect it to different people different times of the day, or selected days of the week, accept incoming sms from customers into your e-mail inbox with Zapier, and reply to their e-mail if you have it on record, or reply to them via sms, by replying to the e-mail.
+  Have one supportnumber; redirect it to different people different times of the day, or selected days of the week. Accept incoming sms from customers into your e-mail inbox with Zapier. ...and much more!
 
 * [Two factor authentication]()
 
