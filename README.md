@@ -141,11 +141,6 @@ As with most things in life, this README is work in progress! It's a living docu
 Would you let us know if you see how it can be improved?
 Feel free to open up a pullrequest, or send us a message at hello@46elks.com!
 
-
-[comment]: <> (This is a comment, it will not be included)
-[comment]: <> (This is a comment, it will not be included)
-
-
 ## Call for contributions
 
 ### Accessability 
