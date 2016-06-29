@@ -95,3 +95,7 @@ Article about ... by @{username}
 
 ## WIP
 As with most things in life, this README is work in progress! It's a living document that changes as we improve.
+
+## Call for contributions
+### Acessability - language
+We have a dream, that this service should be super duper accessible to you, and a we think a first step is to localize this README. We'll try our best in the languages we know. We'll ask our friends. Is your language missing? Can you help us out?
