@@ -42,44 +42,14 @@ You've now sent an sms!
 
 
 
+* Send sms [C#](https://github.com/46elks-getting-started/tree/master/code%20samples/C%23/send-sms) [Elixir](https://github.com/46elks-getting-started/tree/master/code%20samples/elixir) [Go](https://github.com/46elks-getting-started/tree/master/code%20samples/go) [PHP](https://github.com/46elks-getting-started/tree/master/code%20samples/php) [Python](https://github.com/46elks-getting-started/tree/master/code%20samples/py) [Ruby](https://github.com/46elks-getting-started/tree/master/code%20samples/ruby)
 
-### Send sms
+* Receive sms [C#](https://github.com/46elks-getting-started/tree/master/code%20samples/C%23/receive-sms) [Elixir](https://github.com/46elks-getting-started/tree/master/code%20samples/elixir) [Go](https://github.com/46elks-getting-started/tree/master/code%20samples/go) [PHP](https://github.com/46elks-getting-started/tree/master/code%20samples/php) [Python](https://github.com/46elks-getting-started/tree/master/code%20samples/py) [Ruby](https://github.com/46elks-getting-started/tree/master/code%20samples/ruby)
 
-[C#](https://github.com/46elks-getting-started/tree/master/code%20samples/C%23/send-sms) &nbsp;
-[Elixir](https://github.com/46elks-getting-started/tree/master/code%20samples/elixir)  &nbsp;
-[Go](https://github.com/46elks-getting-started/tree/master/code%20samples/go)  &nbsp;
-[PHP](https://github.com/46elks-getting-started/tree/master/code%20samples/php)  &nbsp;
-[Python](https://github.com/46elks-getting-started/tree/master/code%20samples/py) &nbsp;
-[Ruby](https://github.com/46elks-getting-started/tree/master/code%20samples/ruby)
+* Make phone calls [C#](https://github.com/46elks-getting-started/tree/master/code%20samples/C%23/send-sms) [Elixir](https://github.com/46elks-getting-started/tree/master/code%20samples/elixir) [Go](https://github.com/46elks-getting-started/tree/master/code%20samples/go) [PHP](https://github.com/46elks-getting-started/tree/master/code%20samples/php) [Python](https://github.com/46elks-getting-started/tree/master/code%20samples/py) [Ruby](https://github.com/46elks-getting-started/tree/master/code%20samples/ruby)
 
-### Receive SMS
+* Receive phone calls [C#](https://github.com/46elks-getting-started/tree/master/code%20samples/C%23/send-sms) [Elixir](https://github.com/46elks-getting-started/tree/master/code%20samples/elixir) [Go](https://github.com/46elks-getting-started/tree/master/code%20samples/go) [PHP](https://github.com/46elks-getting-started/tree/master/code%20samples/php) [Python](https://github.com/46elks-getting-started/tree/master/code%20samples/py) [Ruby](https://github.com/46elks-getting-started/tree/master/code%20samples/ruby)
 
-[C#](https://github.com/46elks-getting-started/tree/master/code%20samples/C%23/receive-sms)
-[Elixir](https://github.com/46elks-getting-started/tree/master/code%20samples/elixir/receive-sms)
-[Go](https://github.com/46elks-getting-started/tree/master/code%20samples/go)
-[PHP](https://github.com/46elks-getting-started/tree/master/code%20samples/php)
-[Python](https://github.com/46elks-getting-started/tree/master/code%20samples/py)
-[Ruby](https://github.com/46elks-getting-started/tree/master/code%20samples/ruby)
-
-
-### Make a phone call
-
-[C#](https://github.com/46elks-getting-started/tree/master/code%20samples/C%23/receive-sms)
-[Elixir](https://github.com/46elks-getting-started/tree/master/code%20samples/elixir/receive-sms)
-[Go](https://github.com/46elks-getting-started/tree/master/code%20samples/go)
-[PHP](https://github.com/46elks-getting-started/tree/master/code%20samples/php)
-[Python](https://github.com/46elks-getting-started/tree/master/code%20samples/py)
-[Ruby](https://github.com/46elks-getting-started/tree/master/code%20samples/ruby)
-
-
-### Receive a phone call
-
-[C#](https://github.com/46elks-getting-started/tree/master/code%20samples/C%23/receive-sms)
-[Elixir](https://github.com/46elks-getting-started/tree/master/code%20samples/elixir/receive-sms)
-[Go](https://github.com/46elks-getting-started/tree/master/code%20samples/go)
-[PHP](https://github.com/46elks-getting-started/tree/master/code%20samples/php)
-[Python](https://github.com/46elks-getting-started/tree/master/code%20samples/py)
-[Ruby](https://github.com/46elks-getting-started/tree/master/code%20samples/ruby)
 
 ### Build an interactive voice response (IVR)
 
