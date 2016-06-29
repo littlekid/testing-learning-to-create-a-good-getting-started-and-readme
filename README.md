@@ -65,27 +65,25 @@ Code examples & how-to in the [IVR samples collection](https://github.com/little
 
 ## Demo applications
 
-### Smart support 
-Have one supportnumber; redirect it to different people different times of the day, or selected days of the week, accept incoming sms from customers into your e-mail inbox with Zapier, and reply to their e-mail if you have it on record, or reply to them via sms, by replying to the e-mail.
+* [Smart support]()
+  Have one supportnumber; redirect it to different people different times of the day, or selected days of the week, accept incoming sms from customers into your e-mail inbox with Zapier, and reply to their e-mail if you have it on record, or reply to them via sms, by replying to the e-mail.
 
-### Two factor authentication
-Description
+* [Two factor authentication]()
 
-### Elkme - Send textmessages from your terminal
-Description
+* [Elkme]()
+  Send textmessages from your terminal
 
-### Sms game at fair.
-Description
+* [Sms game]()
 
-### Open sesame 
-Open gates at your local..  with an sms.
+* [Open sesame]() 
+  Open gates at your local..  with an sms.
 
 ## Tutorials
 
 * [Love messenger](https://github.com/gish/love-messenger)
 * [Receive SMS into Google spreadsheet](https://medium.com/@46elks/receive-sms-into-google-spreadsheet-435b51393493#.9ku01h462)
 
-Have you written a tutorial on how to use 46elks?
+Have you written a tutorial or created an app that you're willing to share?
 Let us know at hello@46elks.com!
 
 
