@@ -116,4 +116,5 @@ Feel free to open up a pullrequest, or send us a message at hello@46elks.com!
 
 #### Language
 
-We have a dream, that this service should be super duper accessible to you, and a we think a first step is to localize this README. We'll try our best in the languages we know. We'll ask our friends. Is your language missing? Can you help us out?
+We have a dream, that this service should be super duper accessible to you, and a we think a first step is to localize this README. We'll try our best to write READMEs in all the languages we know. We'll ask our friends.  
+Is your language missing? Can you help us out? If so; create a pull request, or e-mail us att hello@46elks.com!
