@@ -76,6 +76,8 @@ What is an ivr? It's ... A more complete article can be found [medium](46elks@me
 Articles on Medium by 46elks.
 46elks on twitter
 Article about ... by @{username}
+Article - README driven development
+Article - User research drive nREADME. How this README came to developed.
   
 ## Integrations
   * Zapier [Zapier tutorial](http...)
@@ -89,5 +91,8 @@ Article about ... by @{username}
   @{username} - Created
   
 ## Hackathons
-  We are keen on helping out, and we'd be happy to help you with.. and credits for participants etc. [Talk to us](mailto:hello@46elks.com). We're also particualry interested in helping events and organizations working with teaching coding to beginners, initiatives that encourage diversety in IT, and among conferences. We enjoy meetups, let us know if you’d like for someone to come and hold a presentation about APIs - getting started with apis, how to send an sms in Elixir/Ruby/Go..  We exist to help you build useful and cool things!
+  We are keen on helping out, and we'd be happy to help you with.. and credits for participants etc. [Talk to us](mailto:hello@46elks.com). We're also particularily interested in helping events and organizations working with teaching coding to beginners, initiatives that encourage diversety in IT, and among conferences. We enjoy meetups, let us know if you’d like for someone to come and hold a presentation about APIs - getting started with apis, how to send an sms in Elixir/Ruby/Go..  We exist to help you build useful and cool things!
   Say hi! Twitter: Uppsala: In Stockholm: In Göteborg: In Poland:
+
+## WIP
+As with most things in life, this README is work in progress! It's a living document that changes as we improve.
