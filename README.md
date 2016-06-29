@@ -1,4 +1,4 @@
-# 46elks [sms api](https://46elks.com), [mms api](https://46elks.com), [voice api](https://46elks.com/link-to-details-about-voice) - your go to api for autmating and integrating telephony into your routines!
+# 46elks [sms api](https://46elks.com), [mms api](https://46elks.com), [voice api](https://46elks.com/link-to-details-about-voice) - your go to api for automating and integrating telephony into your routines!
 
 ## Introduction
 Welcome to this getting started repository with a lovely readme! This is to help you work through creating a great welcoming and informative readme for your project! {Inser: Why does this repo exist? What can the reader benefit from this repository?}
@@ -7,8 +7,9 @@ Welcome to this getting started repository with a lovely readme! This is to help
 
   * [Documentation](https://www.46elks.com/api-docs#introduction)
   * [Sample code](https://github.com/littlekid/testing-learning-to-create-a-good-getting-started-and-readme/tree/master/samples)
-  * [Articles about API, Basic auth, and integrations with 46elks](46elks@medium) 
-  * [Contact us](46elks.com/help#contact)
+  * [Dashboard](http://dashboard.46elks.com/)
+  * [Articles about API, Basic auth, and integrations with 46elks - link to resources further down in this document](46elks@medium) 
+  * [Contact 46elks](46elks.com/help#contact)
 
 ## Quick start
 Using [46elks credentials]() enter this into your terminal:
@@ -96,3 +97,7 @@ Article - User research drive nREADME. How this README came to developed.
 
 ## WIP
 As with most things in life, this README is work in progress! It's a living document that changes as we improve.
+
+## Call for contributions
+### Acessability - language
+We have a dream, that this service should be super duper accessible to you, and a we think a first step is to localize this README. We'll try our best in the languages we know. We'll ask our friends. Is your language missing? Can you help us out?
