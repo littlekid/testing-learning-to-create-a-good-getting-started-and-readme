@@ -103,8 +103,8 @@ Let us know at hello@46elks.com!
 ## Hackathons
   We are keen on helping out, and we'd be happy to help you with.. and credits for participants etc. [Talk to us](mailto:hello@46elks.com). We're also particularily interested in helping events and organizations working with teaching coding to beginners, initiatives that encourage diversety in IT, and among conferences. We enjoy meetups, let us know if you’d like for someone to come and hold a presentation about APIs - getting started with apis, how to send an sms in Elixir/Ruby/Go..  We exist to help you build useful and cool things!
 
-**Contact 46elks:**
-On twitter: [@46elks](https://twitter.com/46elks)
+**Contact 46elks:**  
+On twitter: [@46elks](https://twitter.com/46elks)  
 Email: hello@46elks.com
 
 ## WIP
