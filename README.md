@@ -7,20 +7,19 @@ Welcome to this getting started repository with a lovely readme! This is to help
 
   * [Documentation](https://www.46elks.com/api-docs#introduction)
   * [Sample code](https://github.com/littlekid/testing-learning-to-create-a-good-getting-started-and-readme/tree/master/samples)
-  * [Articles about API, Basic auth, and integrations with 46elks](46elks@medium) 
+  * [Articles about API, Basic auth, and integrations with 46elks - link to resources further down in this document](46elks@medium) 
+  * [Dashboard](http://dashboard.46elks.com/)
   * [Contact us](46elks.com/help#contact)
 
 ## Quick start
 Using [46elks credentials]() enter this into your terminal:
-``` 
-    curl -X POST \
-    -u <API-Username>:<API-Password> \
-    -H 'Content-Type: application/x-www-form-urlencoded' \
-    -d 'from=VILLE' \
-    -d 'to=+358503672181' \
-    -d 'message=Test Message To your phone.' \
-    'https://api.46elks.com/a1/SMS' 
-``` 
+``` curl -X POST \
+  -u <API-Username>:<API-Password> \
+  -H 'Content-Type: application/x-www-form-urlencoded' \
+  -d 'from=VILLE' \
+  -d 'to=+358503672181' \
+  -d 'message=Test Message To your phone.' \
+  'https://api.46elks.com/a1/SMS' ``` 
 You've now sent an sms!
 
 ## Getting started
