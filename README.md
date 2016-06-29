@@ -5,7 +5,7 @@ Welcome to this getting started repository with a lovely readme! This is to help
 
 ### Useful links
 
-  * [Documentation](https://www.46elks.com/api-docs#introduction)
+  * [Documentation :toilet:](https://www.46elks.com/api-docs#introduction)
   * [Sample code](https://github.com/littlekid/testing-learning-to-create-a-good-getting-started-and-readme/tree/master/samples)
   * [Articles about API, Basic auth, and integrations with 46elks - link to resources further down in this document](46elks@medium) 
   * [Dashboard](http://dashboard.46elks.com/)
