@@ -51,11 +51,9 @@ You've now sent an sms!
 * Receive phone calls [C#](https://github.com/46elks-getting-started/tree/master/code%20samples/C%23/send-sms) [Elixir](https://github.com/46elks-getting-started/tree/master/code%20samples/elixir) [Go](https://github.com/46elks-getting-started/tree/master/code%20samples/go) [PHP](https://github.com/46elks-getting-started/tree/master/code%20samples/php) [Python](https://github.com/46elks-getting-started/tree/master/code%20samples/py) [Ruby](https://github.com/46elks-getting-started/tree/master/code%20samples/ruby)
 
 
-### Build an interactive voice response (IVR)
+### Build an interactive voice menu or response (IVR)
 
-What is an ivr? It's ... A more complete article can be found [medium](46elks@medium/What is ivr?)
-
-[IVR samples](https://github.com/littlekid/testing-learning-to-create-a-good-getting-started-and-readme/tree/master/code%20samples/Voice%20-%20IVR%20-%20interactive%20voice%20menues)
+Code examples & how-to in the [IVR samples collection](https://github.com/littlekid/testing-learning-to-create-a-good-getting-started-and-readme/tree/master/code%20samples/Voice%20-%20IVR%20-%20interactive%20voice%20menues).
 
 
 
@@ -81,20 +79,17 @@ Open gates at your local..  with an sms.
 * [Love messenger](https://github.com/gish/love-messenger)
 * [Receive SMS into Google spreadsheet](https://medium.com/@46elks/receive-sms-into-google-spreadsheet-435b51393493#.9ku01h462)
 
+Have you written a tutorial on how to use 46elks?
+Let us know at hello@46elks.com!
+
+
 ## Resources
-Articles on Medium by 46elks.
-46elks on twitter
-Article about ... by @{username}
-Article - README driven development
-Article - User research drive nREADME. How this README came to developed.
-Postman app - to interact with APIs.
+[Postman app](https://www.getpostman.com/) - interact with apis through a Chrome app, also available as an OSX app.
   
 ## Integrations
-  * Zapier [Zapier tutorial](http...)
-  * Filemaker PRO [Link to article about how to integrate 46elks with Filemaker Pro]()
-  * Microsoft Excel
-  * Google spreadsheet
-
+  * [Zapier](https://zapier.com/zapbook/46elks/)
+  * [Microsoft Excel](https://excel.46elks.com/)
+  * Google spreadsheet [Google Script code sample](https://github.com/46elks/SMStoGoogleSheets) | Tutorial: [Receive sms into Google spreadsheet](https://medium.com/@46elks/receive-sms-into-google-spreadsheet-435b51393493#.iu690j86w)
 ## Contributors
   THANK YOU!
   @{username} - Added sample code for...
