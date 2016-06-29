@@ -19,10 +19,9 @@ Here you'll find [sample code]() and inspiring [Demos & Projects]().
   * [Documentation](https://www.46elks.com/api-docs#introduction)
   * [Sample code](https://github.com/littlekid/testing-learning-to-create-a-good-getting-started-and-readme/tree/master/samples)
   * [Dashboard](http://dashboard.46elks.com/)
-  * [Articles about API, Basic auth, and integrations with 46elks - link to resources further down in this document](46elks@medium) 
+  * [Introduction - Learn about using an API](https://zapier.com/learn/apis/) 
   * [Contact 46elks](46elks.com/help#contact)
 
-<br>
 
 ## Getting started
 
