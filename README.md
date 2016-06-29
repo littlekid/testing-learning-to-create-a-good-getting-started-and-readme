@@ -1,7 +1,8 @@
 # 46elks [sms api](https://46elks.com), [mms api](https://46elks.com), [voice api](https://46elks.com/link-to-details-about-voice) - Automate and integrate telephony into your routines!
 
 ## Introduction
-46elks [sms api](https://46elks.com), [mms api](https://46elks.com), [voice api](https://46elks.com/link-to-details-about-voice) - your go to api for automating and integrating telephony into your routines!
+Welcome!
+You can use [46elks](https://www.46elks.com) api to send and receive text messages, and phonecalls, from and into your system. Here you'll find [sample code]() and inspiring [Demos & Projects]().
 
 ### Useful links
 
@@ -11,7 +12,15 @@
   * [Articles about API, Basic auth, and integrations with 46elks - link to resources further down in this document](46elks@medium) 
   * [Contact 46elks](46elks.com/help#contact)
 
-## Quick start
+## Getting started
+
+1. You need *credentials* (a username & a password, also known as your api keys) to use the 46elks api. Create your free 46elks account at [46elks.com/create-account](https://www.46elks.com/create-account), to get a username and password. Used for connecting to the api through [basic auth](46elks@medium article about basic auth).
+2. *Documentation* is available at [46elks.com/docs](https://46elks.com/docs).
+3. You might want to dig right into *[Sample code](https://github.com/littlekid/testing-learning-to-create-a-good-getting-started-and-readme/tree/master/samples)*.
+
+## Sample code
+
+### Quick start
 Using [46elks credentials]() enter this into your terminal:
 ```
 curl -X POST \
@@ -25,13 +34,8 @@ curl -X POST \
 
 You've now sent an sms!
 
-## Getting started
 
-1. You need *credentials* (a username & a password, also known as your api keys) to use the 46elks api. Create your free 46elks account at [46elks.com/create-account](https://www.46elks.com/create-account), to get a username and password. Used for connecting to the api through [basic auth](46elks@medium article about basic auth).
-2. *Documentation* is available at [46elks.com/docs](https://46elks.com/docs).
-3. You might want to dig right into *[Sample code](https://github.com/littlekid/testing-learning-to-create-a-good-getting-started-and-readme/tree/master/samples)*.
 
-## Sample code
 
 ### Send sms
 
