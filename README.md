@@ -6,7 +6,7 @@ Welcome to this getting started repository with a lovely readme! This is to help
 ### Useful links
 
   * [:book: Documentation](https://www.46elks.com/api-docs#introduction)
-  * [:file-code: Sample code](https://github.com/littlekid/testing-learning-to-create-a-good-getting-started-and-readme/tree/master/samples)
+  * [<span class="octicon octicon-dashboard"></span> Sample code](https://github.com/littlekid/testing-learning-to-create-a-good-getting-started-and-readme/tree/master/samples)
   * [:dashboard: Dashboard](http://dashboard.46elks.com/)
   * [:telescope: Articles about API, Basic auth, and integrations with 46elks - link to resources further down in this document](46elks@medium) 
   * [:mail: Contact us](46elks.com/help#contact)
