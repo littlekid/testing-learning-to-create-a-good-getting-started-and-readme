@@ -92,3 +92,6 @@ Article about ... by @{username}
 ## Hackathons
   We are keen on helping out, and we'd be happy to help you with.. and credits for participants etc. [Talk to us](mailto:hello@46elks.com). We're also particualry interested in helping events and organizations working with teaching coding to beginners, initiatives that encourage diversety in IT, and among conferences. We enjoy meetups, let us know if you’d like for someone to come and hold a presentation about APIs - getting started with apis, how to send an sms in Elixir/Ruby/Go..  We exist to help you build useful and cool things!
   Say hi! Twitter: Uppsala: In Stockholm: In Göteborg: In Poland:
+
+## WIP
+As with most things in life, this README is work in progress! It's a living document that changes as we improve.
