@@ -5,7 +5,7 @@
 Välkommen! 
 Om du vill vill automatisera eller integrera telefoni in i dina rutiner, eller leka med sms, automatiskt ringa upp och informera användare om att flyget är försenat, eller skicka uppmuntran till nära och kära, då är 46elks api för dig.
 
-### Snabblänkar (Viktiga länkar? Vad är en bra rubrik här?)
+### Länkar
 
   * [Dokumentation](https://www.46elks.com/api-docs#introduction)(på engelska)
   * [Exempelkod](https://github.com/littlekid/testing-learning-to-create-a-good-getting-started-and-readme/tree/master/samples)
