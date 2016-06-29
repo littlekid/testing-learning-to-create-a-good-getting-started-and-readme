@@ -12,12 +12,12 @@ You can use the [46elks](https://www.46elks.com) api to
 * initiate and receive phonecalls
 * build interactive voice sessions
 
-Here you'll find [sample code]() and inspiring [Demos & Projects]().
+### Links
 
-### Useful links
-
+  * [Quickstart]()
   * [Documentation](https://www.46elks.com/api-docs#introduction)
   * [Sample code](https://github.com/littlekid/testing-learning-to-create-a-good-getting-started-and-readme/tree/master/samples)
+  * * [Demos & Projects]()
   * [Dashboard](http://dashboard.46elks.com/)
   * [Introduction - Learn about using an API](https://zapier.com/learn/apis/) 
   * [Contact 46elks](46elks.com/help#contact)
