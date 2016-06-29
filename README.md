@@ -4,7 +4,14 @@
 
 Welcome!
 
-You can use the [46elks](https://www.46elks.com) api to send and receive text messages, and phonecalls, from and into your system.  
+The 46elks api makes it easy for you to add custom telephony features that are perfectly suited to the way you do things – because let’s face it, sometimes ‘off the shelf’ just doesn't cut it.
+
+You can use the [46elks](https://www.46elks.com) api to 
+
+* send and receive text messages
+* initiate and receive phonecalls
+* build interactive voice sessions
+
 Here you'll find [sample code]() and inspiring [Demos & Projects]().
 
 ### Useful links
