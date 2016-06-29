@@ -32,7 +32,6 @@ You've now sent an sms!
 3. You might want to dig right into *[Sample code](https://github.com/littlekid/testing-learning-to-create-a-good-getting-started-and-readme/tree/master/samples)*.
 
 ## Sample code
-<< APIDOCS "Sample code" links to this location
 
 ### Send sms
 
