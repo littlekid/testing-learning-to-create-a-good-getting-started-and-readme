@@ -106,3 +106,5 @@ Article - User research drive nREADME. How this README came to developed.
 ## WIP
 As with most things in life, this README is work in progress! It's a living document that changes as we improve.
 
+
+This source code is released as public domain. Use freely.
