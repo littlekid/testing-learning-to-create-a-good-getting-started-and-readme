@@ -22,7 +22,7 @@ You can use the [46elks](https://www.46elks.com) api to send and receive text me
 
 ## Sample code
 
-### Quick start
+* Quick start - give the api a try *
 Using [46elks credentials]() enter this into your terminal:
 ```
 curl -X POST \
@@ -108,6 +108,7 @@ Articles on Medium by 46elks.
 Article about ... by @{username}
 Article - README driven development
 Article - User research drive nREADME. How this README came to developed.
+Postman app - to interact with APIs.
   
 ## Integrations
   * Zapier [Zapier tutorial](http...)
