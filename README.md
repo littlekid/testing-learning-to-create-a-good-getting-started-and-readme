@@ -14,11 +14,15 @@ You can use the [46elks](https://www.46elks.com) api to send and receive text me
   * [Articles about API, Basic auth, and integrations with 46elks - link to resources further down in this document](46elks@medium) 
   * [Contact 46elks](46elks.com/help#contact)
 
+<br>
+
 ## Getting started
 
 1. You need *credentials* (a username & a password, also known as your api keys) to use the 46elks api. Create your free 46elks account at [46elks.com/create-account](https://www.46elks.com/create-account), to get a username and password. Used for connecting to the api through [basic auth](46elks@medium article about basic auth).
 2. *Documentation* is available at [46elks.com/docs](https://46elks.com/docs).
 3. You might want to dig right into *[Sample code](https://github.com/littlekid/testing-learning-to-create-a-good-getting-started-and-readme/tree/master/samples)*.
+
+<br>
 
 ## Sample code
 
@@ -84,17 +88,22 @@ What is an ivr? It's ... A more complete article can be found [medium](46elks@me
 
 
 
-### Demo applications
+## Demo applications
 
-#### Smart support - Have one supportnumber; redirect it to different people different times of the day, or selected days of the week, accept incoming sms from customers into your e-mail inbox with Zapier, and reply to their e-mail if you have it on record, or reply to them via sms, by replying to the e-mail.
+### Smart support 
+Have one supportnumber; redirect it to different people different times of the day, or selected days of the week, accept incoming sms from customers into your e-mail inbox with Zapier, and reply to their e-mail if you have it on record, or reply to them via sms, by replying to the e-mail.
 
-#### Two factor authentication
+### Two factor authentication
+Description
 
-#### Elkme - Send textmessages from your terminal
+### Elkme - Send textmessages from your terminal
+Description
 
-#### Sms game at fair.
+### Sms game at fair.
+Description
 
-#### Open sesame - open gates at your local..  with an sms.
+### Open sesame 
+Open gates at your local..  with an sms.
 
 ## Tutorials
 
