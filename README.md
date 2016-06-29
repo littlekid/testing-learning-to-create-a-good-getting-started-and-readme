@@ -22,7 +22,7 @@ You can use the [46elks](https://www.46elks.com) api to send and receive text me
 
 ## Sample code
 
-* Quick start - give the api a try *
+*Quick start* - give the api a try
 Using [46elks credentials]() enter this into your terminal:
 ```
 curl -X POST \
