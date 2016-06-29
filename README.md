@@ -4,7 +4,8 @@
 
 Welcome!
 
-You can use the [46elks](https://www.46elks.com) api to send and receive text messages, and phonecalls, from and into your system. Here you'll find [sample code]() and inspiring [Demos & Projects]().
+You can use the [46elks](https://www.46elks.com) api to send and receive text messages, and phonecalls, from and into your system.  
+Here you'll find [sample code]() and inspiring [Demos & Projects]().
 
 ### Useful links
 
