@@ -13,13 +13,16 @@ Welcome to this getting started repository with a lovely readme! This is to help
 
 ## Quick start
 Using [46elks credentials]() enter this into your terminal:
-``` curl -X POST \
+```
+curl -X POST \
   -u <API-Username>:<API-Password> \
   -H 'Content-Type: application/x-www-form-urlencoded' \
   -d 'from=VILLE' \
   -d 'to=+358503672181' \
   -d 'message=Test Message To your phone.' \
-  'https://api.46elks.com/a1/SMS' ``` 
+  'https://api.46elks.com/a1/SMS' 
+``` 
+
 You've now sent an sms!
 
 ## Getting started
