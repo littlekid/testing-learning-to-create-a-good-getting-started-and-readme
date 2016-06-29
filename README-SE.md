@@ -1,10 +1,9 @@
 # 46elks - SMS & telefoniapi!
-([Smsapi](https://46elks.com), [mmsapi](https://46elks.com), [voiceapi](https://46elks.com/link-to-details-about-voice) 
+[Smsapi](https://46elks.com), [mmsapi](https://46elks.com), [voiceapi](https://46elks.com/link-to-details-about-voice) 
 
 ## Introduktion
 Välkommen! 
 Om du vill vill automatisera eller integrera telefoni in i dina rutiner, eller leka med sms, automatiskt ringa upp och informera användare om att flyget är försenat, eller skicka uppmuntran till nära och kära, då är 46elks api för dig.
-{:Hur besvarar vi på bästa sätt varför 46elks api finns? Hur kan läsaren ha glädje av 46elks api? :}
 
 ### Snabblänkar (Viktiga länkar? Vad är en bra rubrik här?)
 
