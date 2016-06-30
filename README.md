@@ -45,7 +45,7 @@ curl -X POST \
 ``` 
 
 You've now sent an sms!  
-![sms-on-mobile-phone](https://www.46elks.com/images/README-on-github/phone-with-lovely-sms.png)
+![sms-on-mobile-phone](https://www.46elks.com/images/README-on-github/phone-with-lovely-sms-black.png)
 
 
 <br>
