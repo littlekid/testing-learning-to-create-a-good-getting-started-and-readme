@@ -1,10 +1,10 @@
 ![46elks-logo](https://www.46elks.com/images/logo/46elks-240-150.png)
 
-# 46elks [sms api](https://46elks.com), [mms api](https://46elks.com), [voice api](https://46elks.com/link-to-details-about-voice) - Automate and integrate telephony into your routines!
+# Phonecalls, SMS & MMS api
 
 Welcome!
 
-The 46elks api makes it easy for you to add custom telephony features that are perfectly suited to the way you do things – because let’s face it, sometimes ‘off the shelf’ just doesn't cut it.
+The46elks api makes it easy for you to add custom telephony features that are perfectly suited to the way you do things – because let’s face it, sometimes ‘off the shelf’ just doesn't cut it.
 
 You can use the [46elks](https://www.46elks.com) api to 
 
@@ -25,7 +25,7 @@ You can use the [46elks](https://www.46elks.com) api to
 
 ## Getting started
 
-1. You need *credentials* (a username & a password, also known as your api keys) to use the 46elks api. Create your free 46elks account at [46elks.com/create-account](https://www.46elks.com/create-account), to get a username and password. Used for connecting to the api through [basic auth](46elks@medium article about basic auth).
+1. *credentials* (Username & password also known as api keys) to use the 46elks api. Create your free 46elks account at [46elks.com/create-account](https://www.46elks.com/create-account), to get a username and password.
 2. *Documentation* is available at [46elks.com/docs](https://46elks.com/docs).
 3. You might want to dig right into *[Sample code](https://github.com/littlekid/testing-learning-to-create-a-good-getting-started-and-readme/tree/master/samples)*.
 
@@ -57,10 +57,7 @@ You've now sent an sms!
 
 * Receive phone calls [C#](https://github.com/46elks-getting-started/tree/master/code%20samples/C%23/send-sms) &nbsp; [Elixir](https://github.com/46elks-getting-started/tree/master/code%20samples/elixir) &nbsp; [Go](https://github.com/46elks-getting-started/tree/master/code%20samples/go) &nbsp; [PHP](https://github.com/46elks-getting-started/tree/master/code%20samples/php) &nbsp; [Python](https://github.com/46elks-getting-started/tree/master/code%20samples/py) &nbsp; [Ruby](https://github.com/46elks-getting-started/tree/master/code%20samples/ruby)
 
-
-### Build an interactive voice menu or response (IVR)
-
-Code examples & how-to in the [IVR samples collection](https://github.com/littlekid/testing-learning-to-create-a-good-getting-started-and-readme/tree/master/code%20samples/Voice%20-%20IVR%20-%20interactive%20voice%20menues).
+* Build an interactive voice menu or response (IVR) [IVR samples collection](https://github.com/littlekid/testing-learning-to-create-a-good-getting-started-and-readme/tree/master/code%20samples/Voice%20-%20IVR%20-%20interactive%20voice%20menues).
 
 
 
@@ -80,9 +77,11 @@ Code examples & how-to in the [IVR samples collection](https://github.com/little
   Open gates at your local..  with an sms.
 
 ## Tutorials
-
+*Most popular*
 * [Love messenger](https://github.com/gish/love-messenger)
 * [Receive SMS into Google spreadsheet](https://medium.com/@46elks/receive-sms-into-google-spreadsheet-435b51393493#.9ku01h462)
+* Third one
+[See all tutorials](tutorials.md)
 
 Have you written a tutorial or created an app that you're willing to share?
 Let us know at hello@46elks.com!
@@ -96,8 +95,7 @@ Let us know at hello@46elks.com!
   * [Microsoft Excel](https://excel.46elks.com/)
   * Google spreadsheet [Google Script code sample](https://github.com/46elks/SMStoGoogleSheets) | Tutorial: [Receive sms into Google spreadsheet](https://medium.com/@46elks/receive-sms-into-google-spreadsheet-435b51393493#.iu690j86w)
 
-## Contributors
-  THANK YOU!
+## Community & Contributors
   @{username} - Added sample code for...
   @{username} - Created
   
@@ -113,9 +111,7 @@ As with most things in life, this README is work in progress! It's a living docu
 Would you let us know if you see how it can be improved?
 Feel free to open up a pullrequest, or send us a message at hello@46elks.com!
 
-### Accessability 
-
-#### Language
+### Accessability - Language
 
 We have a dream, that this service should be super duper accessible to you, and a we think a first step is to localize this README. We'll try our best to write READMEs in all the languages we know. We'll ask our friends.  
 Is your language missing? Can you help us out? If so; create a pull request, or e-mail us att hello@46elks.com!
