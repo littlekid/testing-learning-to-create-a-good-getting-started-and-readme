@@ -44,7 +44,9 @@ curl -X POST \
   'https://api.46elks.com/a1/SMS' 
 ``` 
 
-You've now sent an sms!
+You've now sent an sms!  
+![sms-on-mobile-phone](https://www.46elks.com/images/README-on-github/phone-with-lovely-sms.png)
+
 
 <br>
 *Code examples in different languages*
